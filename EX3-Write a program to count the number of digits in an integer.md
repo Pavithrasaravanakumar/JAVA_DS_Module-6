@@ -1,5 +1,5 @@
 # EX3 Write a program to count the number of digits in an integer.
-## DATE: 13/11/2025
+## DATE: 15/09/2025
 ## AIM:
 To write a program to count the number of digits in an integer.
 
